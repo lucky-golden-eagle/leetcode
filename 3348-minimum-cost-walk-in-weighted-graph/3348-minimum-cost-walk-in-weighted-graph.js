@@ -4,74 +4,64 @@
  * @param {number[][]} query
  * @return {number[]}
  */
-class UnionFind {
-  constructor(n) {
-    this.parent = Array(n).fill(0).map((_, i) => i);
-    this.size = Array(n).fill(1);
-    this.bitwise = Array(n).fill(-1);
-  }
+var minimumCost = function(n, edges, query) {
+  const parent = Array(n).fill(0).map((_, i) => i);
+  const rank = Array(n).fill(0);
+  const bitwise = Array(n).fill(-1);
 
-  find(i) {
-    if (this.parent[i] === i) {
+  const find = (i) => {
+    if (parent[i] === i) {
       return i;
     }
-    return this.parent[i] = this.find(this.parent[i]); // Path compression
-  }
+    return parent[i] = find(parent[i]);
+  };
 
-  union(i, j, weight) {
-    const rootI = this.find(i);
-    const rootJ = this.find(j);
+  const union = (i, j, weight) => {
+    const rootI = find(i);
+    const rootJ = find(j);
     if (rootI === rootJ) {
-      this.bitwise[rootI] &= weight;
+      bitwise[rootI] &= weight;
       return false;
     }
 
     let bitwiseVal;
-    const checkI = this.bitwise[rootI] === -1;
-    const checkJ = this.bitwise[rootJ] === -1;
+    const checkI = bitwise[rootI] === -1;
+    const checkJ = bitwise[rootJ] === -1;
 
     if (checkI && checkJ) {
       bitwiseVal = weight;
     } else if (checkI) {
-      bitwiseVal = weight & this.bitwise[rootJ];
+      bitwiseVal = weight & bitwise[rootJ];
     } else if (checkJ) {
-      bitwiseVal = weight & this.bitwise[rootI];
+      bitwiseVal = weight & bitwise[rootI];
     } else {
-      bitwiseVal = weight & this.bitwise[rootI] & this.bitwise[rootJ];
+      bitwiseVal = weight & bitwise[rootI] & bitwise[rootJ];
     }
 
-    if (this.size[rootI] >= this.size[rootJ]) {
-      this.parent[rootJ] = rootI;
-      this.size[rootI] += this.size[rootJ];
-      this.bitwise[rootI] = bitwiseVal;
+    if (rank[rootI] < rank[rootJ]) {
+      parent[rootI] = rootJ;
+      bitwise[rootJ] = bitwiseVal;
+    } else if (rank[rootI] > rank[rootJ]) {
+      parent[rootJ] = rootI;
+      bitwise[rootI] = bitwiseVal;
     } else {
-      this.parent[rootI] = rootJ;
-      this.size[rootJ] += this.size[rootI];
-      this.bitwise[rootJ] = bitwiseVal;
+      parent[rootJ] = rootI;
+      bitwise[rootI] = bitwiseVal;
+      rank[rootI]++;
     }
     return true;
-  }
+  };
 
-  getBitwise(i) {
-    return this.bitwise[this.find(i)];
-  }
-}
-
-var minimumCost = function(n, edges, query) {
-  const uf = new UnionFind(n);
   for (const [u, v, weight] of edges) {
-    uf.union(u, v, weight);
+    union(u, v, weight);
   }
 
   const result = [];
   for (const [start, end] of query) {
-    if (start === end) {
-      result.push(0);
-    } else if (uf.find(start) === uf.find(end)) {
-      result.push(uf.getBitwise(start));
-    } else {
-      result.push(-1);
-    }
+    const rootStart = find(start);
+    const rootEnd = find(end);
+    result.push(start === end ? 0 : (rootStart === rootEnd ? bitwise[rootStart] : -1));
   }
+
   return result;
 }
