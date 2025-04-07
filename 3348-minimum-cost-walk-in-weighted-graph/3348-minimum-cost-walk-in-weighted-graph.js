@@ -8,57 +8,70 @@ class UnionFind {
   constructor(n) {
     this.parent = Array(n).fill(0).map((_, i) => i);
     this.size = Array(n).fill(1);
+    this.bitwise = Array(n).fill(-1);
   }
 
-  find(x) {
-    if (this.parent[x] !== x) {
-      this.parent[x] = this.find(this.parent[x]);
+  find(i) {
+    if (this.parent[i] === i) {
+      return i;
     }
-    return this.parent[x];
+    return this.parent[i] = this.find(this.parent[i]); // Path compression
   }
 
-  union(a, b) {
-    const [rootA, rootB] = [this.find(a), this.find(b)];
-    if (rootA === rootB) {
+  union(i, j, weight) {
+    const rootI = this.find(i);
+    const rootJ = this.find(j);
+    if (rootI === rootJ) {
+      this.bitwise[rootI] &= weight;
       return false;
     }
-    if (this.size[rootA] > this.size[rootB]) {
-      this.parent[rootB] = rootA;
-      this.size[rootA] += this.size[rootB];
+
+    let bitwiseVal;
+    const checkI = this.bitwise[rootI] === -1;
+    const checkJ = this.bitwise[rootJ] === -1;
+
+    if (checkI && checkJ) {
+      bitwiseVal = weight;
+    } else if (checkI) {
+      bitwiseVal = weight & this.bitwise[rootJ];
+    } else if (checkJ) {
+      bitwiseVal = weight & this.bitwise[rootI];
     } else {
-      this.parent[rootA] = rootB;
-      this.size[rootB] += this.size[rootA];
+      bitwiseVal = weight & this.bitwise[rootI] & this.bitwise[rootJ];
+    }
+
+    if (this.size[rootI] >= this.size[rootJ]) {
+      this.parent[rootJ] = rootI;
+      this.size[rootI] += this.size[rootJ];
+      this.bitwise[rootI] = bitwiseVal;
+    } else {
+      this.parent[rootI] = rootJ;
+      this.size[rootJ] += this.size[rootI];
+      this.bitwise[rootJ] = bitwiseVal;
     }
     return true;
   }
 
-  getSize(x) {
-    return this.size[this.find(x)];
+  getBitwise(i) {
+    return this.bitwise[this.find(i)];
   }
 }
 
-var minimumCost = function (n, edges, query) {
-  const unionFind = new UnionFind(n);
-  const componentCost = Array(n).fill(-1);
-
-  // Build connected components
-  for (const [u, v] of edges) {
-    unionFind.union(u, v);
+var minimumCost = function(n, edges, query) {
+  const uf = new UnionFind(n);
+  for (const [u, v, weight] of edges) {
+    uf.union(u, v, weight);
   }
 
-  // Calculate the bitwise AND of weights for each connected component
-  for (const [u, _, weight] of edges) {
-    const root = unionFind.find(u);
-    componentCost[root] &= weight;
-  }
-
-  const findCost = (u, v) => {
-    if (u === v) {
-      return 0;
+  const result = [];
+  for (const [start, end] of query) {
+    if (start === end) {
+      result.push(0);
+    } else if (uf.find(start) === uf.find(end)) {
+      result.push(uf.getBitwise(start));
+    } else {
+      result.push(-1);
     }
-    const [rootU, rootV] = [unionFind.find(u), unionFind.find(v)];
-    return rootU === rootV ? componentCost[rootU] : -1;
-  };
-
-  return query.map(([u, v]) => findCost(u, v));
+  }
+  return result;
 }
