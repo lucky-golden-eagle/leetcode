@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0010-regular-expression-matching) |
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Sorting
@@ -53,4 +54,9 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
