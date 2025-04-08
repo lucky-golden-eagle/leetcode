@@ -12,6 +12,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lucky-golden-eagle/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/lucky-golden-eagle/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
 | ------- |
@@ -79,4 +80,8 @@
 | ------- |
 | [3792-find-invalid-ip-addresses](https://github.com/lucky-golden-eagle/leetcode/tree/master/3792-find-invalid-ip-addresses) |
 | [3828-analyze-organization-hierarchy](https://github.com/lucky-golden-eagle/leetcode/tree/master/3828-analyze-organization-hierarchy) |
+## Hash Table
+|  |
+| ------- |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/lucky-golden-eagle/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 <!---LeetCode Topics End-->
