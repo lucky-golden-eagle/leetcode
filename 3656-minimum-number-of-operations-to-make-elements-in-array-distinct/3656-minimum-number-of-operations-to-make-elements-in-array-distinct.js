@@ -3,17 +3,14 @@
  * @return {number}
  */
 var minimumOperations = function(nums) {
-    let operations = 0;
-    while (true) {
-        const startIndex = operations * 3; // O(1)
-        if (startIndex >= nums.length) { // O(1)
-            return operations;
+    const s = new Set();
+
+    for (let i = nums.length - 1; i >= 0; --i) {
+        if (s.has(nums[i])) {
+            return Math.floor(i / 3) + 1;
         }
-        const suffix = nums.slice(startIndex);
-        const distinctSet = new Set(suffix);
-        if (distinctSet.size === suffix.length) {
-            return operations;
-        }
-        operations++; // O(1)
+        s.add(nums[i]);
     }
+
+    return 0;
 };
