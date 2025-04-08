@@ -5,8 +5,6 @@
 var minimumOperations = function(nums) {
     let operations = 0;
     while (true) {
-        let operations = 0;
-    while (true) {
         const startIndex = operations * 3; // O(1)
         if (startIndex >= nums.length) { // O(1)
             return operations;
@@ -17,6 +15,5 @@ var minimumOperations = function(nums) {
             return operations;
         }
         operations++; // O(1)
-    }
     }
 };
