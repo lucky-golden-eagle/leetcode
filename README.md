@@ -16,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/lucky-golden-eagle/leetcode/tree/master/0007-reverse-integer) |
 | [0367-valid-perfect-square](https://github.com/lucky-golden-eagle/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
