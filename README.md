@@ -74,4 +74,8 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Database
+|  |
+| ------- |
+| [3828-analyze-organization-hierarchy](https://github.com/lucky-golden-eagle/leetcode/tree/master/3828-analyze-organization-hierarchy) |
 <!---LeetCode Topics End-->
