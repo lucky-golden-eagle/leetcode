@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/lucky-golden-eagle/leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,4 +97,16 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/lucky-golden-eagle/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/lucky-golden-eagle/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/lucky-golden-eagle/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/lucky-golden-eagle/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
