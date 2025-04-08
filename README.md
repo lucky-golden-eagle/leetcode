@@ -78,6 +78,7 @@
 ## Database
 |  |
 | ------- |
+| [0262-trips-and-users](https://github.com/lucky-golden-eagle/leetcode/tree/master/0262-trips-and-users) |
 | [3792-find-invalid-ip-addresses](https://github.com/lucky-golden-eagle/leetcode/tree/master/3792-find-invalid-ip-addresses) |
 | [3828-analyze-organization-hierarchy](https://github.com/lucky-golden-eagle/leetcode/tree/master/3828-analyze-organization-hierarchy) |
 ## Hash Table
