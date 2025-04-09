@@ -13,6 +13,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lucky-golden-eagle/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/lucky-golden-eagle/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/lucky-golden-eagle/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/lucky-golden-eagle/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sliding Window
 |  |
