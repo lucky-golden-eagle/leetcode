@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0262-trips-and-users](https://github.com/lucky-golden-eagle/leetcode/tree/master/0262-trips-and-users) |
+| [1908-recyclable-and-low-fat-products](https://github.com/lucky-golden-eagle/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [3792-find-invalid-ip-addresses](https://github.com/lucky-golden-eagle/leetcode/tree/master/3792-find-invalid-ip-addresses) |
 | [3828-analyze-organization-hierarchy](https://github.com/lucky-golden-eagle/leetcode/tree/master/3828-analyze-organization-hierarchy) |
 ## Hash Table
