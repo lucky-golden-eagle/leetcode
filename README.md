@@ -10,6 +10,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/lucky-golden-eagle/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/lucky-golden-eagle/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0045-jump-game-ii) |
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -31,6 +32,7 @@
 | [0032-longest-valid-parentheses](https://github.com/lucky-golden-eagle/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lucky-golden-eagle/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0045-jump-game-ii) |
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Sorting
@@ -126,6 +128,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/lucky-golden-eagle/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0045-jump-game-ii) |
 ## Stack
 |  |
 | ------- |
