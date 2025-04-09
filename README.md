@@ -9,6 +9,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/lucky-golden-eagle/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/lucky-golden-eagle/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/lucky-golden-eagle/leetcode/tree/master/0053-maximum-subarray) |
@@ -41,6 +42,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0015-3sum) |
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
 ## Bit Manipulation
 |  |
@@ -71,6 +73,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/lucky-golden-eagle/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/lucky-golden-eagle/leetcode/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
