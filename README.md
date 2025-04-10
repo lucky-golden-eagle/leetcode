@@ -114,6 +114,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/lucky-golden-eagle/leetcode/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/lucky-golden-eagle/leetcode/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/lucky-golden-eagle/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
