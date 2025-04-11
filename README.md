@@ -20,6 +20,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/lucky-golden-eagle/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/lucky-golden-eagle/leetcode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lucky-golden-eagle/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -245,4 +246,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/lucky-golden-eagle/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/lucky-golden-eagle/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
