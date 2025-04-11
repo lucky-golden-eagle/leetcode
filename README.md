@@ -20,6 +20,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/lucky-golden-eagle/leetcode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -59,6 +60,7 @@
 | [0016-3sum-closest](https://github.com/lucky-golden-eagle/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/lucky-golden-eagle/leetcode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
 ## Bit Manipulation
 |  |
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/lucky-golden-eagle/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
