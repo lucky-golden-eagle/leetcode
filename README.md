@@ -40,6 +40,7 @@
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lucky-golden-eagle/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Dynamic Programming
@@ -121,6 +122,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0044-wildcard-matching) |
+| [2050-count-good-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
