@@ -26,6 +26,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/lucky-golden-eagle/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1656-count-good-triplets](https://github.com/lucky-golden-eagle/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/lucky-golden-eagle/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lucky-golden-eagle/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -138,6 +139,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/lucky-golden-eagle/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/3548-find-the-count-of-good-integers) |
