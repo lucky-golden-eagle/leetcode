@@ -16,6 +16,7 @@
 | [0045-jump-game-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/lucky-golden-eagle/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/lucky-golden-eagle/leetcode/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/lucky-golden-eagle/leetcode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/lucky-golden-eagle/leetcode/tree/master/0134-gas-station) |
@@ -122,6 +123,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/lucky-golden-eagle/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/lucky-golden-eagle/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0044-wildcard-matching) |
+| [0068-text-justification](https://github.com/lucky-golden-eagle/leetcode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
@@ -295,4 +297,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0112-path-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lucky-golden-eagle/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/lucky-golden-eagle/leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
