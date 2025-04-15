@@ -32,6 +32,7 @@
 | [1656-count-good-triplets](https://github.com/lucky-golden-eagle/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/lucky-golden-eagle/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lucky-golden-eagle/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/lucky-golden-eagle/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0367-valid-perfect-square](https://github.com/lucky-golden-eagle/leetcode/tree/master/0367-valid-perfect-square) |
+| [2280-count-good-triplets-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/lucky-golden-eagle/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/lucky-golden-eagle/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
+| [2280-count-good-triplets-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,6 +236,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lucky-golden-eagle/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [2280-count-good-triplets-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -301,4 +305,16 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/lucky-golden-eagle/leetcode/tree/master/0068-text-justification) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
