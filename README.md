@@ -15,6 +15,7 @@
 | [0036-valid-sudoku](https://github.com/lucky-golden-eagle/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/lucky-golden-eagle/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/lucky-golden-eagle/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/lucky-golden-eagle/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/lucky-golden-eagle/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/lucky-golden-eagle/leetcode/tree/master/0055-jump-game) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/lucky-golden-eagle/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/lucky-golden-eagle/leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/lucky-golden-eagle/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/lucky-golden-eagle/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -341,5 +343,6 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/lucky-golden-eagle/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/lucky-golden-eagle/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lucky-golden-eagle/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
