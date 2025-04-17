@@ -16,6 +16,7 @@
 | [0042-trapping-rain-water](https://github.com/lucky-golden-eagle/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/lucky-golden-eagle/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/lucky-golden-eagle/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/lucky-golden-eagle/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/lucky-golden-eagle/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/lucky-golden-eagle/leetcode/tree/master/0055-jump-game) |
@@ -86,6 +87,7 @@
 | [0015-3sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/lucky-golden-eagle/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/lucky-golden-eagle/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/lucky-golden-eagle/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/lucky-golden-eagle/leetcode/tree/master/0274-h-index) |
@@ -147,6 +149,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/lucky-golden-eagle/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/lucky-golden-eagle/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/lucky-golden-eagle/leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/lucky-golden-eagle/leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -239,6 +242,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lucky-golden-eagle/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/lucky-golden-eagle/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/lucky-golden-eagle/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/lucky-golden-eagle/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/lucky-golden-eagle/leetcode/tree/master/0128-longest-consecutive-sequence) |
