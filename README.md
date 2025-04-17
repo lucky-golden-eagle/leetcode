@@ -144,6 +144,7 @@
 | [0068-text-justification](https://github.com/lucky-golden-eagle/leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/lucky-golden-eagle/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/lucky-golden-eagle/leetcode/tree/master/0392-is-subsequence) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
@@ -234,6 +235,7 @@
 | [0076-minimum-window-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lucky-golden-eagle/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/lucky-golden-eagle/leetcode/tree/master/0383-ransom-note) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lucky-golden-eagle/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -284,6 +286,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/lucky-golden-eagle/leetcode/tree/master/0383-ransom-note) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Counting Sort
 |  |
