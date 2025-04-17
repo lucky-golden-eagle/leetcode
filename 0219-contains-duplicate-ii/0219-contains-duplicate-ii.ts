@@ -1,25 +1,14 @@
 function containsNearbyDuplicate(nums: number[], k: number): boolean {
-    const indexedNums: [number, number][] = [];
-    for (let i = 0; i < nums.length; i++) {
-        indexedNums.push([nums[i], i]);
-    }
-    
-    indexedNums.sort((a, b) => {
-        if (a[0] !== b[0]) {
-            return a[0] - b[0];
-        }
-        return a[1] - b[1];
-    });
-    
-    for (let i = 0; i < indexedNums.length - 1; i++) {
-        if (indexedNums[i][0] === indexedNums[i + 1][0]) {
-            const index1 = indexedNums[i][1];
-            const index2 = indexedNums[i + 1][1];
-            if (Math.abs(index1 - index2) <= k) {
+    const lastSeenIndex = new Map<number, number>();
+    for (let j = 0; j < nums.length; j++) {
+        const currentNumber = nums[j];
+        if (lastSeenIndex.has(currentNumber)) {
+            const i = lastSeenIndex.get(currentNumber)!;
+            if (Math.abs(i - j) <= k) {
                 return true;
             }
         }
+        lastSeenIndex.set(currentNumber, j);
     }
-    
     return false;
 };
