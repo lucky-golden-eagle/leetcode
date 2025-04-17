@@ -54,6 +54,7 @@
 | [0012-integer-to-roman](https://github.com/lucky-golden-eagle/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/lucky-golden-eagle/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/lucky-golden-eagle/leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/lucky-golden-eagle/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lucky-golden-eagle/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -132,6 +133,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lucky-golden-eagle/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/lucky-golden-eagle/leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/lucky-golden-eagle/leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -241,6 +243,7 @@
 | [0076-minimum-window-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/lucky-golden-eagle/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/lucky-golden-eagle/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/lucky-golden-eagle/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lucky-golden-eagle/leetcode/tree/master/0290-word-pattern) |
