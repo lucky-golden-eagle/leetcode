@@ -84,6 +84,7 @@
 | [0016-3sum-closest](https://github.com/lucky-golden-eagle/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/lucky-golden-eagle/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/lucky-golden-eagle/leetcode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
 ## Bit Manipulation
@@ -144,6 +145,7 @@
 | [0068-text-justification](https://github.com/lucky-golden-eagle/leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/lucky-golden-eagle/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lucky-golden-eagle/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/lucky-golden-eagle/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/lucky-golden-eagle/leetcode/tree/master/0392-is-subsequence) |
@@ -235,6 +237,7 @@
 | [0073-set-matrix-zeroes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/lucky-golden-eagle/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lucky-golden-eagle/leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lucky-golden-eagle/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/lucky-golden-eagle/leetcode/tree/master/0383-ransom-note) |
