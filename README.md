@@ -148,6 +148,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lucky-golden-eagle/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/lucky-golden-eagle/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/lucky-golden-eagle/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/lucky-golden-eagle/leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/lucky-golden-eagle/leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/lucky-golden-eagle/leetcode/tree/master/0068-text-justification) |
