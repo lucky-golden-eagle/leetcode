@@ -259,6 +259,7 @@
 | [0073-set-matrix-zeroes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/lucky-golden-eagle/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/lucky-golden-eagle/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/lucky-golden-eagle/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -285,6 +286,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lucky-golden-eagle/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/lucky-golden-eagle/leetcode/tree/master/0146-lru-cache) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -331,6 +333,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/lucky-golden-eagle/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/lucky-golden-eagle/leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lucky-golden-eagle/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -392,4 +395,8 @@
 | [0054-spiral-matrix](https://github.com/lucky-golden-eagle/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/lucky-golden-eagle/leetcode/tree/master/0289-game-of-life) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/lucky-golden-eagle/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
