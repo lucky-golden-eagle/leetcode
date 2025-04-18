@@ -62,6 +62,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/lucky-golden-eagle/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lucky-golden-eagle/leetcode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/lucky-golden-eagle/leetcode/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/lucky-golden-eagle/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lucky-golden-eagle/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -163,6 +164,7 @@
 | [0071-simplify-path](https://github.com/lucky-golden-eagle/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/lucky-golden-eagle/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/lucky-golden-eagle/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/lucky-golden-eagle/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/lucky-golden-eagle/leetcode/tree/master/0383-ransom-note) |
@@ -173,6 +175,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0044-wildcard-matching) |
+| [0224-basic-calculator](https://github.com/lucky-golden-eagle/leetcode/tree/master/0224-basic-calculator) |
 | [2050-count-good-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
@@ -310,6 +313,7 @@
 | [0071-simplify-path](https://github.com/lucky-golden-eagle/leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lucky-golden-eagle/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lucky-golden-eagle/leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/lucky-golden-eagle/leetcode/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
