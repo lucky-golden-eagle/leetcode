@@ -263,6 +263,7 @@
 | [0073-set-matrix-zeroes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/lucky-golden-eagle/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/lucky-golden-eagle/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/lucky-golden-eagle/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/lucky-golden-eagle/leetcode/tree/master/0202-happy-number) |
@@ -290,6 +291,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lucky-golden-eagle/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/lucky-golden-eagle/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/lucky-golden-eagle/leetcode/tree/master/0146-lru-cache) |
 ## Heap (Priority Queue)
 |  |
