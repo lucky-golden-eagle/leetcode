@@ -116,6 +116,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lucky-golden-eagle/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Union Find
@@ -133,6 +134,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lucky-golden-eagle/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/lucky-golden-eagle/leetcode/tree/master/0367-valid-perfect-square) |
 | [2280-count-good-triplets-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -400,6 +402,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/lucky-golden-eagle/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lucky-golden-eagle/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
@@ -433,6 +436,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/lucky-golden-eagle/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lucky-golden-eagle/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Simulation
