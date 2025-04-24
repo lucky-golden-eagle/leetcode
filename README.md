@@ -92,6 +92,7 @@
 | [0053-maximum-subarray](https://github.com/lucky-golden-eagle/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/lucky-golden-eagle/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/lucky-golden-eagle/leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -394,6 +395,7 @@
 | [0112-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lucky-golden-eagle/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -404,6 +406,7 @@
 | [0112-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lucky-golden-eagle/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -424,6 +427,7 @@
 | [0112-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lucky-golden-eagle/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
