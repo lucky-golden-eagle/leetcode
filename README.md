@@ -35,6 +35,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lucky-golden-eagle/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/lucky-golden-eagle/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/lucky-golden-eagle/leetcode/tree/master/0228-summary-ranges) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lucky-golden-eagle/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/lucky-golden-eagle/leetcode/tree/master/0200-number-of-islands) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lucky-golden-eagle/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
@@ -427,6 +429,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/lucky-golden-eagle/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/lucky-golden-eagle/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lucky-golden-eagle/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -442,6 +445,7 @@
 | [0112-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/lucky-golden-eagle/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/lucky-golden-eagle/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lucky-golden-eagle/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -494,6 +498,7 @@
 | [0048-rotate-image](https://github.com/lucky-golden-eagle/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lucky-golden-eagle/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/lucky-golden-eagle/leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/lucky-golden-eagle/leetcode/tree/master/0289-game-of-life) |
 ## Doubly-Linked List
 |  |
