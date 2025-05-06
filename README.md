@@ -56,6 +56,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/lucky-golden-eagle/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/lucky-golden-eagle/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/lucky-golden-eagle/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lucky-golden-eagle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/lucky-golden-eagle/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/lucky-golden-eagle/leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -521,6 +522,7 @@
 | [0054-spiral-matrix](https://github.com/lucky-golden-eagle/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/lucky-golden-eagle/leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/lucky-golden-eagle/leetcode/tree/master/0289-game-of-life) |
+| [2048-build-array-from-permutation](https://github.com/lucky-golden-eagle/leetcode/tree/master/2048-build-array-from-permutation) |
 ## Binary Indexed Tree
 |  |
 | ------- |
