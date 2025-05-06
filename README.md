@@ -50,6 +50,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lucky-golden-eagle/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0797-rabbits-in-forest](https://github.com/lucky-golden-eagle/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0945-snakes-and-ladders](https://github.com/lucky-golden-eagle/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/lucky-golden-eagle/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -492,6 +493,7 @@
 | [0399-evaluate-division](https://github.com/lucky-golden-eagle/leetcode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lucky-golden-eagle/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/lucky-golden-eagle/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lucky-golden-eagle/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -545,6 +547,7 @@
 | [0130-surrounded-regions](https://github.com/lucky-golden-eagle/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/lucky-golden-eagle/leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/lucky-golden-eagle/leetcode/tree/master/0289-game-of-life) |
+| [0945-snakes-and-ladders](https://github.com/lucky-golden-eagle/leetcode/tree/master/0945-snakes-and-ladders) |
 ## Doubly-Linked List
 |  |
 | ------- |
