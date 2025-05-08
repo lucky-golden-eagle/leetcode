@@ -55,6 +55,7 @@
 | [0274-h-index](https://github.com/lucky-golden-eagle/leetcode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/lucky-golden-eagle/leetcode/tree/master/0289-game-of-life) |
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/lucky-golden-eagle/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lucky-golden-eagle/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/lucky-golden-eagle/leetcode/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -411,6 +412,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lucky-golden-eagle/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/lucky-golden-eagle/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Merge Sort
