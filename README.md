@@ -43,6 +43,7 @@
 | [0130-surrounded-regions](https://github.com/lucky-golden-eagle/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/lucky-golden-eagle/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/lucky-golden-eagle/leetcode/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/lucky-golden-eagle/leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/lucky-golden-eagle/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lucky-golden-eagle/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -181,6 +182,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/lucky-golden-eagle/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
