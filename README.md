@@ -183,6 +183,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/lucky-golden-eagle/leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/lucky-golden-eagle/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -233,6 +234,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/lucky-golden-eagle/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0772-construct-quad-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/lucky-golden-eagle/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
