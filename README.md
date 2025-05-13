@@ -27,6 +27,7 @@
 | [0056-merge-intervals](https://github.com/lucky-golden-eagle/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/lucky-golden-eagle/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/lucky-golden-eagle/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lucky-golden-eagle/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -128,6 +129,7 @@
 | [0053-maximum-subarray](https://github.com/lucky-golden-eagle/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/lucky-golden-eagle/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/lucky-golden-eagle/leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -631,6 +633,7 @@
 | [0048-rotate-image](https://github.com/lucky-golden-eagle/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lucky-golden-eagle/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lucky-golden-eagle/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/lucky-golden-eagle/leetcode/tree/master/0079-word-search) |
