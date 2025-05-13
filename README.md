@@ -107,6 +107,7 @@
 | [0050-powx-n](https://github.com/lucky-golden-eagle/leetcode/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/lucky-golden-eagle/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lucky-golden-eagle/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lucky-golden-eagle/leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/lucky-golden-eagle/leetcode/tree/master/0224-basic-calculator) |
