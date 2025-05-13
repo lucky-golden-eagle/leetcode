@@ -43,6 +43,7 @@
 | [0130-surrounded-regions](https://github.com/lucky-golden-eagle/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/lucky-golden-eagle/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/lucky-golden-eagle/leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/lucky-golden-eagle/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lucky-golden-eagle/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0162-find-peak-element) |
@@ -137,6 +138,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/lucky-golden-eagle/leetcode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/lucky-golden-eagle/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/lucky-golden-eagle/leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/lucky-golden-eagle/leetcode/tree/master/0322-coin-change) |
@@ -269,6 +271,7 @@
 | [0076-minimum-window-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/lucky-golden-eagle/leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/lucky-golden-eagle/leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/lucky-golden-eagle/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lucky-golden-eagle/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -388,6 +391,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/lucky-golden-eagle/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/lucky-golden-eagle/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/lucky-golden-eagle/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/lucky-golden-eagle/leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/lucky-golden-eagle/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/lucky-golden-eagle/leetcode/tree/master/0202-happy-number) |
@@ -695,6 +699,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/lucky-golden-eagle/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lucky-golden-eagle/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0212-word-search-ii) |
@@ -706,4 +711,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/lucky-golden-eagle/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/lucky-golden-eagle/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
