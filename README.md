@@ -126,6 +126,7 @@
 | [0045-jump-game-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/lucky-golden-eagle/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/lucky-golden-eagle/leetcode/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/lucky-golden-eagle/leetcode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -256,6 +257,7 @@
 | [0049-group-anagrams](https://github.com/lucky-golden-eagle/leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/lucky-golden-eagle/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/lucky-golden-eagle/leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/lucky-golden-eagle/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/lucky-golden-eagle/leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/lucky-golden-eagle/leetcode/tree/master/0127-word-ladder) |
