@@ -104,6 +104,7 @@
 | [0007-reverse-integer](https://github.com/lucky-golden-eagle/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/lucky-golden-eagle/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/lucky-golden-eagle/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/lucky-golden-eagle/leetcode/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/lucky-golden-eagle/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lucky-golden-eagle/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/0189-rotate-array) |
@@ -297,6 +298,7 @@
 | [0010-regular-expression-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/lucky-golden-eagle/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/lucky-golden-eagle/leetcode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/lucky-golden-eagle/leetcode/tree/master/0224-basic-calculator) |
 | [2050-count-good-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/2050-count-good-numbers) |
 ## Backtracking
