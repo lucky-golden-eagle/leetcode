@@ -112,6 +112,7 @@
 | [0013-roman-to-integer](https://github.com/lucky-golden-eagle/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/lucky-golden-eagle/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/lucky-golden-eagle/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/lucky-golden-eagle/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lucky-golden-eagle/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -146,6 +147,7 @@
 | [0055-jump-game](https://github.com/lucky-golden-eagle/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/lucky-golden-eagle/leetcode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/lucky-golden-eagle/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lucky-golden-eagle/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -758,6 +760,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/lucky-golden-eagle/leetcode/tree/master/0139-word-break) |
 ## Geometry
 |  |
