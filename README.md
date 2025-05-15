@@ -254,6 +254,7 @@
 | [0016-3sum-closest](https://github.com/lucky-golden-eagle/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/lucky-golden-eagle/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -277,6 +278,7 @@
 | [0010-regular-expression-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/lucky-golden-eagle/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lucky-golden-eagle/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/lucky-golden-eagle/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/lucky-golden-eagle/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/lucky-golden-eagle/leetcode/tree/master/0038-count-and-say) |
@@ -743,4 +745,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/lucky-golden-eagle/leetcode/tree/master/0149-max-points-on-a-line) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
