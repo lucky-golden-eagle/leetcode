@@ -277,6 +277,7 @@
 | [0008-string-to-integer-atoi](https://github.com/lucky-golden-eagle/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/lucky-golden-eagle/leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/lucky-golden-eagle/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lucky-golden-eagle/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/lucky-golden-eagle/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -725,6 +726,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/lucky-golden-eagle/leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/lucky-golden-eagle/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lucky-golden-eagle/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
