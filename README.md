@@ -99,6 +99,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lucky-golden-eagle/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -175,6 +176,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/lucky-golden-eagle/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/lucky-golden-eagle/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -336,6 +338,7 @@
 | [0399-evaluate-division](https://github.com/lucky-golden-eagle/leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/lucky-golden-eagle/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0868-push-dominoes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0868-push-dominoes) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
