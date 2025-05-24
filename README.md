@@ -105,6 +105,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/lucky-golden-eagle/leetcode/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/lucky-golden-eagle/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/lucky-golden-eagle/leetcode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lucky-golden-eagle/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -364,6 +365,7 @@
 | [1894-merge-strings-alternately](https://github.com/lucky-golden-eagle/leetcode/tree/master/1894-merge-strings-alternately) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/lucky-golden-eagle/leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
