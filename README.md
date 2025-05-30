@@ -249,6 +249,7 @@
 | [0210-course-schedule-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/lucky-golden-eagle/leetcode/tree/master/0399-evaluate-division) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/lucky-golden-eagle/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/lucky-golden-eagle/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lucky-golden-eagle/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -686,6 +687,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lucky-golden-eagle/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/lucky-golden-eagle/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/lucky-golden-eagle/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
