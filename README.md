@@ -840,6 +840,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lucky-golden-eagle/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0212-word-search-ii) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/lucky-golden-eagle/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Quickselect
 |  |
 | ------- |
