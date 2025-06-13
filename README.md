@@ -101,6 +101,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -274,6 +275,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -589,6 +591,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/lucky-golden-eagle/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lucky-golden-eagle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/lucky-golden-eagle/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3647-zero-array-transformation-iii) |
