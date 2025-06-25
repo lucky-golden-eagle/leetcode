@@ -92,6 +92,7 @@
 | [1656-count-good-triplets](https://github.com/lucky-golden-eagle/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/lucky-golden-eagle/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lucky-golden-eagle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/lucky-golden-eagle/leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -276,6 +277,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/lucky-golden-eagle/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/lucky-golden-eagle/leetcode/tree/master/0367-valid-perfect-square) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lucky-golden-eagle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
