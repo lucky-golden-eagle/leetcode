@@ -382,6 +382,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/lucky-golden-eagle/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/lucky-golden-eagle/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/lucky-golden-eagle/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -417,6 +418,7 @@
 | [0079-word-search](https://github.com/lucky-golden-eagle/leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0212-word-search-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/lucky-golden-eagle/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Combinatorics
 |  |
 | ------- |
@@ -429,6 +431,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/lucky-golden-eagle/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lucky-golden-eagle/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/lucky-golden-eagle/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/2998-count-symmetric-integers) |
@@ -600,6 +603,7 @@
 | [0605-can-place-flowers](https://github.com/lucky-golden-eagle/leetcode/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/lucky-golden-eagle/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/lucky-golden-eagle/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/lucky-golden-eagle/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lucky-golden-eagle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -634,6 +638,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/lucky-golden-eagle/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/lucky-golden-eagle/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
