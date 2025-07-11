@@ -101,6 +101,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2479-meeting-rooms-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -227,6 +228,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lucky-golden-eagle/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lucky-golden-eagle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2479-meeting-rooms-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/lucky-golden-eagle/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/lucky-golden-eagle/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -539,6 +541,7 @@
 | [1500-count-largest-group](https://github.com/lucky-golden-eagle/leetcode/tree/master/1500-count-largest-group) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/lucky-golden-eagle/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2479-meeting-rooms-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -588,6 +591,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/lucky-golden-eagle/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lucky-golden-eagle/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [2479-meeting-rooms-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -798,6 +802,7 @@
 | [0068-text-justification](https://github.com/lucky-golden-eagle/leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/lucky-golden-eagle/leetcode/tree/master/0289-game-of-life) |
 | [2048-build-array-from-permutation](https://github.com/lucky-golden-eagle/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2479-meeting-rooms-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Indexed Tree
 |  |
