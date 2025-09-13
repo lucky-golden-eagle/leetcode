@@ -160,6 +160,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/lucky-golden-eagle/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/lucky-golden-eagle/leetcode/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -401,6 +402,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/lucky-golden-eagle/leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3462-vowels-game-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -917,4 +919,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
