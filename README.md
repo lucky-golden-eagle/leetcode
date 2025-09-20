@@ -129,6 +129,7 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3797-design-spreadsheet](https://github.com/lucky-golden-eagle/leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/lucky-golden-eagle/leetcode/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -303,6 +304,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3827-implement-router](https://github.com/lucky-golden-eagle/leetcode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -579,6 +581,7 @@
 | [3678-design-task-manager](https://github.com/lucky-golden-eagle/leetcode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/lucky-golden-eagle/leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/lucky-golden-eagle/leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/lucky-golden-eagle/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -707,6 +710,7 @@
 | [2429-design-a-food-rating-system](https://github.com/lucky-golden-eagle/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/lucky-golden-eagle/leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/lucky-golden-eagle/leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/lucky-golden-eagle/leetcode/tree/master/3827-implement-router) |
 ## Randomized
 |  |
 | ------- |
@@ -855,6 +859,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/lucky-golden-eagle/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/lucky-golden-eagle/leetcode/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/lucky-golden-eagle/leetcode/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -902,6 +907,7 @@
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/lucky-golden-eagle/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lucky-golden-eagle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3827-implement-router](https://github.com/lucky-golden-eagle/leetcode/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
