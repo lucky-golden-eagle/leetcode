@@ -81,6 +81,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lucky-golden-eagle/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/lucky-golden-eagle/leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0772-construct-quad-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0772-construct-quad-tree) |
 | [0797-rabbits-in-forest](https://github.com/lucky-golden-eagle/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/lucky-golden-eagle/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -593,6 +594,7 @@
 | [0076-minimum-window-substring](https://github.com/lucky-golden-eagle/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
