@@ -92,6 +92,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/lucky-golden-eagle/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/lucky-golden-eagle/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/lucky-golden-eagle/leetcode/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/lucky-golden-eagle/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -210,6 +211,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/lucky-golden-eagle/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0868-push-dominoes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/lucky-golden-eagle/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/lucky-golden-eagle/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/lucky-golden-eagle/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -603,6 +605,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lucky-golden-eagle/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
