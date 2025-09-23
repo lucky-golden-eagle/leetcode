@@ -409,6 +409,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/lucky-golden-eagle/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/lucky-golden-eagle/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lucky-golden-eagle/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/lucky-golden-eagle/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/lucky-golden-eagle/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -598,6 +599,7 @@
 | [0219-contains-duplicate-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lucky-golden-eagle/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
