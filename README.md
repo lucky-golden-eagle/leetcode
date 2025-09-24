@@ -150,6 +150,7 @@
 | [0070-climbing-stairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/lucky-golden-eagle/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lucky-golden-eagle/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/lucky-golden-eagle/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/lucky-golden-eagle/leetcode/tree/master/0202-happy-number) |
@@ -397,6 +398,7 @@
 | [0139-word-break](https://github.com/lucky-golden-eagle/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/lucky-golden-eagle/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lucky-golden-eagle/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0212-word-search-ii) |
@@ -557,6 +559,7 @@
 | [0141-linked-list-cycle](https://github.com/lucky-golden-eagle/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/lucky-golden-eagle/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/lucky-golden-eagle/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/lucky-golden-eagle/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/lucky-golden-eagle/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/lucky-golden-eagle/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0208-implement-trie-prefix-tree) |
