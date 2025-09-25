@@ -110,6 +110,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2428-equal-row-and-column-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/lucky-golden-eagle/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/lucky-golden-eagle/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -581,6 +582,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/lucky-golden-eagle/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/lucky-golden-eagle/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2428-equal-row-and-column-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/lucky-golden-eagle/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -866,6 +868,7 @@
 | [0068-text-justification](https://github.com/lucky-golden-eagle/leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/lucky-golden-eagle/leetcode/tree/master/0289-game-of-life) |
 | [2048-build-array-from-permutation](https://github.com/lucky-golden-eagle/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2428-equal-row-and-column-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Indexed Tree
@@ -901,6 +904,7 @@
 | [0289-game-of-life](https://github.com/lucky-golden-eagle/leetcode/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/lucky-golden-eagle/leetcode/tree/master/0945-snakes-and-ladders) |
+| [2428-equal-row-and-column-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3797-design-spreadsheet](https://github.com/lucky-golden-eagle/leetcode/tree/master/3797-design-spreadsheet) |
