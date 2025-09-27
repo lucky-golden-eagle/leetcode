@@ -86,6 +86,7 @@
 | [0724-find-pivot-index](https://github.com/lucky-golden-eagle/leetcode/tree/master/0724-find-pivot-index) |
 | [0772-construct-quad-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0772-construct-quad-tree) |
 | [0797-rabbits-in-forest](https://github.com/lucky-golden-eagle/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/lucky-golden-eagle/leetcode/tree/master/0830-largest-triangle-area) |
 | [0945-snakes-and-ladders](https://github.com/lucky-golden-eagle/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/lucky-golden-eagle/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -165,6 +166,7 @@
 | [0368-largest-divisible-subset](https://github.com/lucky-golden-eagle/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lucky-golden-eagle/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/lucky-golden-eagle/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/lucky-golden-eagle/leetcode/tree/master/0830-largest-triangle-area) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/lucky-golden-eagle/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/lucky-golden-eagle/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/lucky-golden-eagle/leetcode/tree/master/1500-count-largest-group) |
@@ -993,6 +995,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/lucky-golden-eagle/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/lucky-golden-eagle/leetcode/tree/master/0830-largest-triangle-area) |
 ## String Matching
 |  |
 | ------- |
