@@ -433,6 +433,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/lucky-golden-eagle/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/lucky-golden-eagle/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/lucky-golden-eagle/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2470-removing-stars-from-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -710,6 +711,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/lucky-golden-eagle/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/lucky-golden-eagle/leetcode/tree/master/0224-basic-calculator) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2470-removing-stars-from-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Monotonic Stack
 |  |
@@ -884,6 +886,7 @@
 | [0289-game-of-life](https://github.com/lucky-golden-eagle/leetcode/tree/master/0289-game-of-life) |
 | [2048-build-array-from-permutation](https://github.com/lucky-golden-eagle/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2428-equal-row-and-column-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Indexed Tree
