@@ -430,6 +430,7 @@
 | [0399-evaluate-division](https://github.com/lucky-golden-eagle/leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/lucky-golden-eagle/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/lucky-golden-eagle/leetcode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/lucky-golden-eagle/leetcode/tree/master/0649-dota2-senate) |
 | [0868-push-dominoes](https://github.com/lucky-golden-eagle/leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/lucky-golden-eagle/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -692,6 +693,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lucky-golden-eagle/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/lucky-golden-eagle/leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/lucky-golden-eagle/leetcode/tree/master/0611-valid-triangle-number) |
+| [0649-dota2-senate](https://github.com/lucky-golden-eagle/leetcode/tree/master/0649-dota2-senate) |
 | [0797-rabbits-in-forest](https://github.com/lucky-golden-eagle/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/lucky-golden-eagle/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/lucky-golden-eagle/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -963,6 +965,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/lucky-golden-eagle/leetcode/tree/master/0649-dota2-senate) |
 | [0954-maximum-sum-circular-subarray](https://github.com/lucky-golden-eagle/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/lucky-golden-eagle/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lucky-golden-eagle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
