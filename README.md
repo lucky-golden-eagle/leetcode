@@ -426,6 +426,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/lucky-golden-eagle/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/lucky-golden-eagle/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/lucky-golden-eagle/leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/lucky-golden-eagle/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/lucky-golden-eagle/leetcode/tree/master/0443-string-compression) |
@@ -467,6 +468,7 @@
 | [0044-wildcard-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/lucky-golden-eagle/leetcode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/lucky-golden-eagle/leetcode/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -717,6 +719,7 @@
 | [0155-min-stack](https://github.com/lucky-golden-eagle/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/lucky-golden-eagle/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/lucky-golden-eagle/leetcode/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/lucky-golden-eagle/leetcode/tree/master/0735-asteroid-collision) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/2470-removing-stars-from-a-string) |
