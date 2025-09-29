@@ -757,6 +757,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/lucky-golden-eagle/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/lucky-golden-eagle/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lucky-golden-eagle/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0969-number-of-recent-calls](https://github.com/lucky-golden-eagle/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2429-design-a-food-rating-system](https://github.com/lucky-golden-eagle/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/lucky-golden-eagle/leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/lucky-golden-eagle/leetcode/tree/master/3797-design-spreadsheet) |
@@ -963,6 +964,7 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/lucky-golden-eagle/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0969-number-of-recent-calls](https://github.com/lucky-golden-eagle/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/lucky-golden-eagle/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3827-implement-router](https://github.com/lucky-golden-eagle/leetcode/tree/master/3827-implement-router) |
 ## Monotonic Queue
@@ -999,6 +1001,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/lucky-golden-eagle/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0969-number-of-recent-calls](https://github.com/lucky-golden-eagle/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Memoization
 |  |
 | ------- |
