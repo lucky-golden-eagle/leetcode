@@ -473,6 +473,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/lucky-golden-eagle/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/lucky-golden-eagle/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/lucky-golden-eagle/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/lucky-golden-eagle/leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/lucky-golden-eagle/leetcode/tree/master/2050-count-good-numbers) |
@@ -666,6 +667,7 @@
 | [0141-linked-list-cycle](https://github.com/lucky-golden-eagle/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/lucky-golden-eagle/leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
