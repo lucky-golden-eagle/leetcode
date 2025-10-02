@@ -386,6 +386,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/lucky-golden-eagle/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -670,6 +671,7 @@
 | [0206-reverse-linked-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -733,6 +735,7 @@
 | [0224-basic-calculator](https://github.com/lucky-golden-eagle/leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/lucky-golden-eagle/leetcode/tree/master/0735-asteroid-collision) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/lucky-golden-eagle/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
