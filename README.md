@@ -187,6 +187,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/lucky-golden-eagle/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/lucky-golden-eagle/leetcode/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/lucky-golden-eagle/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -909,6 +910,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/lucky-golden-eagle/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3336-water-bottles-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Indexed Tree
 |  |
