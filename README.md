@@ -78,6 +78,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lucky-golden-eagle/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/lucky-golden-eagle/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/lucky-golden-eagle/leetcode/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/lucky-golden-eagle/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lucky-golden-eagle/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/lucky-golden-eagle/leetcode/tree/master/0605-can-place-flowers) |
@@ -679,6 +680,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/lucky-golden-eagle/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/lucky-golden-eagle/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lucky-golden-eagle/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [2429-design-a-food-rating-system](https://github.com/lucky-golden-eagle/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/lucky-golden-eagle/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/lucky-golden-eagle/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -872,6 +874,7 @@
 | [0226-invert-binary-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/lucky-golden-eagle/leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/lucky-golden-eagle/leetcode/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/lucky-golden-eagle/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lucky-golden-eagle/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -951,6 +954,7 @@
 | [0212-word-search-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/lucky-golden-eagle/leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/lucky-golden-eagle/leetcode/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/lucky-golden-eagle/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0772-construct-quad-tree](https://github.com/lucky-golden-eagle/leetcode/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/lucky-golden-eagle/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2428-equal-row-and-column-pairs](https://github.com/lucky-golden-eagle/leetcode/tree/master/2428-equal-row-and-column-pairs) |
